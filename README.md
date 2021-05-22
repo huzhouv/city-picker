@@ -1,6 +1,11 @@
-# City Picker
-
 **This project is forked from https://github.com/tshi0912/city-picker.**
+
+```
+该工程在原库的基础上进行了部分修改：
+- 1.3.0：将城市数据更新为最新版
+```
+
+# City Picker
 
 > A simple jQuery plugin for picking provinces, cities and districts of China.
 
