@@ -2,6 +2,7 @@
 
 ```
 该工程在原库的基础上进行了部分修改：
+- 1.3.1: 添加港澳台省级代码，缺少地市和区县信息
 - 1.3.0：将城市数据更新为最新版
 ```
 
@@ -12,6 +13,10 @@
 - [Demo](http://tshi0912.github.io/city-picker)
 
 ## Release History
+
+### V1.3.1
+
+Add province code of Tai Wan, Hong Kong and Macao, but without city and area code. 
 
 ### V1.3.0
 
